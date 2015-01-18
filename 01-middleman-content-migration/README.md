@@ -1,13 +1,13 @@
 ## Background & Objectives
 
-The objective of this challenge is to migrate our poor HTML website into a nice Middleman project with templates and sass. Start by forking/cloning our [middleman boilerplate](https://github.com/lewagon/middleman-boilerplate)
+The objective of this challenge is to migrate our poor HTML website into a nice Middleman project with templates and SASS. Start with a fork/clone of our [middleman boilerplate](https://github.com/lewagon/middleman-boilerplate)
 
-## Two important scripts - start and deploy
+## Start and deploy scripts
 
-We provide you two scripts in this boilerplate (for Mac and for Windows)
+In this boilerplate, we provide you two scripts (for Mac and for Windows)
 
-- **`osx_start.command`** (resp. `windows_start.command`) will start a local server to run your website and listen for change in your code. Just double-click this file to launch the server.
-- `osx_deploy.command` (resp. `windows_deploy.command`) enables to deploy you website on Github Pages. Deployment is a bit trickier than before as your are now coding with templates and sass. Hence, your code should be processed into pure HTML and CSS before being published. That's why we provide you this nice little script.
+- **`osx_start.command`** (resp. **`windows_start.command`**) will start a local server to run your website and listen for change in your code. Just double-click this file to launch the server.
+- **`osx_deploy.command`** (resp. **`windows_deploy.command`**) enables to deploy you website on Github Pages. Deployment is a bit trickier than before as your are now coding with templates and sass. Hence, your code should be processed into pure HTML and CSS before being published. That's why we provide you this nice little script.
 
 ## Specs
 
