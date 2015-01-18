@@ -1,6 +1,6 @@
 ### Final objective
 
-The final goal of these 2-day challenges is to obtain [this website](http://lewagon.github.io/stylus) with a clean and organized project architecture and generic and re-usable CSS modules, which will be **very precious for your future projects**.
+The final goal of these 2-day challenges is to obtain [this website](http://lewagon.github.io/stylus) with a clean and organized project architecture and generic and re-usable CSS modules. This will be **extremely precious for your future projects**.
 
 
 ### `01-middleman-content-migration`
