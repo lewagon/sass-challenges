@@ -1,6 +1,6 @@
 ## Background & Objectives
 
-In this challengen, you will write your first SASS modules, that you will be able to re-use on future projects.
+This challenge makes you write your first SASS modules. Once written, you can re-use them in all your future projects. That rocks!
 
 ## Specs
 
