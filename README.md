@@ -1,3 +1,8 @@
+### Final objective
+
+The final goal of these 2-day challenges is to obtain [this website](http://lewagon.github.io/stylus) with a clean and organized project architecture and generic and re-usable CSS modules, which will be **very precious for your future projects**.
+
+
 ### `01-middleman-content-migration`
 
 The objective of this challenge is to migrate your poor HTML website into a nice Middleman project with templates and SASS. Start with a fork/clone of our [middleman boilerplate](https://github.com/lewagon/middleman-boilerplate)
