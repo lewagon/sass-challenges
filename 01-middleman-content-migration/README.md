@@ -16,10 +16,10 @@ In this challenge, you have to:
 1. Migrate your home page **content** into the `index.html.erb` Middleman page
 1. Create a new `contact.html.erb` page with team and contact infos
 
-Before coding, **start your server** with the script. Once you're done
+Before coding, **start your server** with the start script. Once you're done
 
 1. Commit and publish you change using Github app.
-1. Deploy your site with the script.
+1. Deploy your site with the deploy script.
 
 ## Tips & Resources
 
