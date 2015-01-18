@@ -1,4 +1,4 @@
-## Le Wagon advance front-end challenges
+## Le Wagon advanced front-end challenges
 
 The final goal of these 2-day challenges is to obtain [this website](http://lewagon.github.io/stylus) with a clean and organized project architecture and generic and re-usable CSS modules. This will be **extremely precious for your future projects**.
 
