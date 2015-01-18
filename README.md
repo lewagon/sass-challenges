@@ -2,6 +2,7 @@
 
 The final goal of these 2-day challenges is to obtain [this website](http://lewagon.github.io/stylus) with a clean and organized project architecture and generic and re-usable CSS modules. This will be **extremely precious for your future projects**.
 
+## Day #1
 
 ### `01-middleman-content-migration`
 
@@ -10,6 +11,8 @@ The objective of this challenge is to migrate your poor HTML website into a nice
 ### `02-middleman-style-migration`
 
 In this challenge, you will adopt a very clean organization of our styleheets, and you will use SASS variables, chaining and nesting to have a concise but efficient design.
+
+## Day #2
 
 ### `03-middleman-local-data`
 
