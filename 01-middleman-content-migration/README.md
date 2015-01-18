@@ -18,7 +18,7 @@ In this challenge, you have to:
 
 Before coding, **start your server** with the script. Once you're done
 
-1. Commit and publish you change on Github.
+1. Commit and publish you change using Github app.
 1. Deploy your site with the script.
 
 ## Tips & Resources
