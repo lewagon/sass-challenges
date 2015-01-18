@@ -1,6 +1,6 @@
 ## Background & Objectives
 
-The objective of this challenge is to migrate our poor HTML website into a nice Middleman project with templates and SASS. Start with a fork/clone of our [middleman boilerplate](https://github.com/lewagon/middleman-boilerplate)
+The objective of this challenge is to migrate your poor HTML website into a nice Middleman project with templates and SASS. Start with a fork/clone of our [middleman boilerplate](https://github.com/lewagon/middleman-boilerplate)
 
 ## Start and deploy scripts
 
@@ -16,12 +16,12 @@ In this challenge, you have to:
 1. Migrate your home page **content** into the `index.html.erb` Middleman page
 1. Create a new `contact.html.erb` page with team and contact infos
 
-Before coding, **start your server** with the start script. Once you're done
+Before coding, **start your server** with the start script. Once you're done:
 
 1. Commit and publish you change using Github app.
 1. Deploy your site with the deploy script.
 
 ## Tips & Resources
 
-1. Don't forget to put all common HTML parts in the `layout.html.erb`
-1. Don't forget to replace all `<a>` tags and `<img>` tags by **correct helpers**
+1. Don't forget to **put all common HTML parts in the `layout.html.erb`**. That's the purpose of the layout!
+1. Don't forget to replace all `<a>` tags and `<img>` tags by **correct helpers** so that your URLs always work.
